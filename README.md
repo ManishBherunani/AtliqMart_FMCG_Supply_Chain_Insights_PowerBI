@@ -14,6 +14,7 @@
   - [3. City-Level Performance](#3-city-level-performance)
   - [4. Product-Wise Metric Check](#4-product-wise-metric-check)
 - [Key Takeaways](#-key-takeaways)
+- [Author & Contact](#author--contact)
 
 ---
 
@@ -200,3 +201,8 @@ The insights guide **operational improvements** and highlight areas needing atte
 
 ---
 
+## Author & Contact
+**Author:** Manish Bherunani  
+**Role:** Data Analyst  
+**Email:** manishbherunani@gmail.com  
+**LinkedIn:** [linkedin.com/in/manish-bherunani-718b18117](https://www.linkedin.com/in/manish-bherunani-718b18117/)  

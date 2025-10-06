@@ -174,11 +174,16 @@ The insights guide **operational improvements** and highlight areas needing atte
 ---
 
 ### 3. City-Level Performance
-- **IF %:** Ahmedabad 54.20% (target 77.33%), Surat 52.55% (target 76.91%), Vadodara 51.56% (target 75.33%)  
-- **OT %:** Ahmedabad 58.16% (target 85.83%), Surat 61.21% (target 86.27%), Vadodara 57.98% (target 86.17%)  
-- **OTIF %:** Ahmedabad 29.33%, Surat 30.07%, Vadodara 27.78% vs. ~66% targets  
+- **IF %:** Ahmedabad 54.20% (target 77.33%), Surat 52.55% (target 76.91%), Vadodara 51.56% (target 75.33%)
+- Interpretation: Lower IF % across all cities is primarily due to weaker VOFR % and LIFR %, indicating incomplete order fulfilment.
+  
+- **OT %:** Ahmedabad 58.16% (target 85.83%), Surat 61.21% (target 86.27%), Vadodara 57.98% (target 86.17%)
+-  Interpretation: Lower OT % across cities is linked to weaker LIFR %, meaning not all order lines were ready for dispatch on the agreed delivery date.
+  
+- **OTIF %:** Ahmedabad 29.33%, Surat 30.07%, Vadodara 27.78% vs. ~66% targets
+- Interpretation: OTIF % performance is directly impacted by gaps in VOFR %, LIFR %, IF %, and OT %, leading to incomplete and delayed deliveries.
 
-✅ All cities underperform; need stronger supplier coordination, inventory availability, and dispatch execution.  
+✅ All cities underperform need stronger supplier coordination, inventory availability and dispatch execution.  
 
 ---
 
@@ -192,14 +197,14 @@ The insights guide **operational improvements** and highlight areas needing atte
 **Bottom Products**  
 - **VOFR %:** AM Butter 250, AM Butter 500, AM Biscuits 500, AM Tea 500, AM Tea 250 (**96.52%–96.36%**)  
 - **LIFR %:** AM Butter 250, AM Biscuits 250, AM Tea 250, AM Butter 500, AM Ghee 250 (**63.52%–65.25%**)  
-- Observation: Overlap of underperforming products (e.g., AM Butter, AM Tea) highlights supplier & fulfillment gaps.  
+- Observation: Overlap of underperforming products (e.g. AM Butter 250 & 500, AM Tea 250) highlights supplier & fulfillment gaps.  
 
 ---
 
 ## 📌 Key Takeaways
 - Strong **VOFR %** shows volumes are mostly fulfilled.  
 - Weak **LIFR %, IF %, OT %, OTIF %** reveal systemic supply chain issues.  
-- **Integrated improvements** across suppliers, inventory, dispatch, and last-mile delivery are essential.  
+- **Integrated improvements** across suppliers, inventory, dispatch, workforce scheduling to reduce delays, Balance ERP/WMS rule and last-mile delivery are essential.  
 - Benchmarking top-performing customers/products can guide improvements.  
 
 ---

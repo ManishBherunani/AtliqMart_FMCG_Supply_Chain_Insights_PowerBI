@@ -108,25 +108,25 @@ The insights guide **operational improvements** and highlight areas needing atte
 - Avg: **96.59%** (target ≥97%)  
 - Monthly variation: **96.51%–96.66%** → stable  
 - Weekly variation: **96.07%–96.85%** → intermittent dips  
-✅ Strong but slightly below target; weekly volatility shows operational gaps.  
+✅ Overall stability reflects strong fulfilment consistency.  
 
 **LIFR % (Line Fill Rate)**  
 - Avg: **65.96%**  
 - Monthly variation: **65.69%–66.31%** → stable  
 - Weekly variation: **63.66%–67.99%** → higher fluctuation  
-✅ Weak fill rates caused by supplier reliability issues & ERP/WMS order-splitting.  
+✅ Performance improves with higher delivery volumes (e.g. July 96.60% → 65.89% vs. August 96.66% → 66.31%), confirming dependency between the two metrics. 
 
 **IF % (In-Full Delivery)**  
 - Avg: **52.78%** vs. target **76.51%**  
 - Monthly variation: **52.04%–53.66%**  
 - Weekly variation: **46.58%–55.40%**  
-✅ Consistently under target; highlights systemic fulfillment gaps.  
+✅ Consistently under target; highlights systemic fulfilment gaps.  
 
 **OT % (On-Time Delivery)**  
 - Avg: **59.03%** vs. target **86.09%**  
 - Monthly variation: **58.50%–59.57%**  
 - Weekly variation: **57.35%–62.69%**  
-✅ Consistently late deliveries; dispatch planning & logistics inefficiencies identified.  
+✅ Consistently below target,, highlighting fulfilment & on-time delivery gaps.  
 
 **OTIF % (On-Time In-Full)**  
 - Avg: **29.02%** vs. target **65.91%**  

@@ -139,19 +139,22 @@ The insights guide **operational improvements** and highlight areas needing atte
 ### 2. Evaluate Metrics Against Their Target for Customers
 
 **Overall Performance**  
+-All customers fall below target for OT %, IF % and OTIF %, with consistent gaps indicating systemic issues in timeliness and completeness of orders.
 - VOFR % strong (**95%–98%**) → most ordered volume delivered.  
 - LIFR % variable (**52%–76%**) → challenges in fulfilling full line items.  
 
 **Top Customers**  
 - Propel Mart, Chiptec Stores, Atlas Stores, Viveks Stores, Expression Stores  
   - VOFR %: **97.5%–97.9%**  
-  - LIFR %: **≥75.2%**  
+  - LIFR %: **≥75.2%**
+  - They also show smaller OT & IF Gaps, resulting in comparatively better OTIF % performance.
 
 **Bottom Customers**  
 - Coolblue, Elite Mart, Info Stores, Sorefoz Mart, Acclaimed Stores  
   - VOFR %: **95.1%–95.9%**  
-  - LIFR %: **51.5%–58.9%**  
-- ⚠️ **Elite Mart & Sorefoz Mart** show the largest **IF Gaps (-32% to -35%)** and **OTIF Gaps (-39% to -42%)** → critical focus accounts.  
+  - LIFR %: **51.5%–58.9%**
+  - •	These customers consistently appear at the bottom across multiple metrics.
+- ⚠️ **Elite Mart & Sorefoz Mart** show the largest **IF Gaps (-32% to -35%)** and **OTIF Gaps (-39% to -42%)** → critical focus customers.  
 
 **Metric-Wise Insights**  
 

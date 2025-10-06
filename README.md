@@ -1,4 +1,4 @@
-<img width="859" height="81" alt="image" src="https://github.com/user-attachments/assets/3f47e72c-e68a-47a5-8cb5-5ca5b06806ef" /># 📊 Atliq Mart Supply Chain Insights
+# 📊 Atliq Mart Supply Chain Insights
 
 ## 📑 Table of Contents
 - [Project Overview](#project-overview)

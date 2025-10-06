@@ -1,4 +1,4 @@
-# 📊 Atliq Mart Supply Chain Insights
+<img width="859" height="81" alt="image" src="https://github.com/user-attachments/assets/3f47e72c-e68a-47a5-8cb5-5ca5b06806ef" /># 📊 Atliq Mart Supply Chain Insights
 
 ## 📑 Table of Contents
 - [Project Overview](#project-overview)
@@ -175,13 +175,13 @@ The insights guide **operational improvements** and highlight areas needing atte
 
 ### 3. City-Level Performance
 - **IF %:** Ahmedabad 54.20% (target 77.33%), Surat 52.55% (target 76.91%), Vadodara 51.56% (target 75.33%)
-- Interpretation: Lower IF % across all cities is primarily due to weaker VOFR % and LIFR %, indicating incomplete order fulfilment.
+- Interpretation: Lower IF % across all cities compared to their target is primarily due to weaker VOFR % and LIFR %, indicating incomplete order fulfilment.
   
 - **OT %:** Ahmedabad 58.16% (target 85.83%), Surat 61.21% (target 86.27%), Vadodara 57.98% (target 86.17%)
--  Interpretation: Lower OT % across cities is linked to weaker LIFR %, meaning not all order lines were ready for dispatch on the agreed delivery date.
+-  Interpretation: Lower OT % across cities all cities compared to their target is linked to weaker LIFR %, meaning not all order lines were ready for dispatch on the agreed delivery date.
   
 - **OTIF %:** Ahmedabad 29.33%, Surat 30.07%, Vadodara 27.78% vs. ~66% targets
-- Interpretation: OTIF % performance is directly impacted by gaps in VOFR %, LIFR %, IF %, and OT %, leading to incomplete and delayed deliveries.
+- Interpretation: Lower OTIF% is directly compared to their targets impacted by gaps in VOFR %, LIFR %, IF %, and OT %, leading to incomplete and delayed deliveries.
 
 ✅ All cities underperform need stronger supplier coordination, inventory availability and dispatch execution.  
 

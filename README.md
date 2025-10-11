@@ -96,7 +96,7 @@ The insights guide **operational improvements** and highlight areas needing atte
 
 ## Tools & Skills
 - 🔧 **Tools:** Power BI  
-- 📊 **Skills:** Data Modelling, DAX, KPIs, Visualizations (charts, tables, slicers)  
+- 📊 **Skills:** Data Loading, Data Modelling, DAX, KPIs, Visualizations (charts, tables, slicers)  
 
 ---
 
